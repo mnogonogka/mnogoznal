@@ -1,0 +1,52 @@
+body{
+    /* background-image: url(/img/vv.png); */
+    background-attachment: fixed;
+    border: .8em darkviolet;
+    padding: 1.4em;
+    background: linear-gradient(60deg, rgb(20, 39, 82), rgb(86, 22, 77), rgb(83, 17, 149));
+    }
+
+h1 {
+    text-align: center;
+    text-decoration-line:underline;
+}
+
+.hunter {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.eva {
+    padding-top: 150px;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.parazit {
+    padding-top: 150px;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.ciberpank {
+    padding-top: 200px;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.berserk {
+    padding-top: 200px;
+    max-width: 1250px;
+    margin: 0 auto;
+    padding-bottom: 230px;
+}
+
+.logo {
+    padding-top: 0px;
+    margin: 0;
+    text-align: right;
+    text-decoration:solid underline;
+}
+p {
+    text-
+}
